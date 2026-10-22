@@ -1,3 +1,6 @@
+#Name:-Darshit Mehta
+#Enrollment No:-92600584037
+
 #No two queens can be in the same row.
 #No two queens can be in the same column.
 #No two queens can be in the same diagonal.
