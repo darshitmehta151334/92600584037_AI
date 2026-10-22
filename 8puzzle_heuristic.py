@@ -1,3 +1,6 @@
+#Name:- Darshit Mehta
+#Enrollment No:- 92600584037
+
 # Goal state
 goal = (1, 2, 3,
         4, 5, 6,
